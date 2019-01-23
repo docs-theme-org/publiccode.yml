@@ -92,7 +92,7 @@ maintenance:
 
   contractors:
     - name: "Fornitore Privato SPA"
-      url: "https://privatecompany.com"
+      website: "https://privatecompany.com"
       until: "2019-01-01"
 
   contacts:
